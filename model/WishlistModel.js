@@ -9,6 +9,6 @@ const wishlist = new mongoose.Schema({
 {
     timestamps: true
 });
-''
+
 
 module.exports = mongoose.model('wishlist', wishlist)
