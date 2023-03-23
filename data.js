@@ -110,7 +110,7 @@ const Categories=[
                         COD:"Available",
                         status:"In-stock",
                         Quantity:"+ 1 -",
-                        Size:["s","m","l","xl","xxl"],
+                        Size:["S","M","L","XL","XXL"],
                         productdetails:{
                             productcode:"SHSLSVIC77201A01",
                             idealfor:"Women",

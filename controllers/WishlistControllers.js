@@ -12,14 +12,14 @@ const getwishlist = async(req, res) => {
         res.status(200).json({ status: false, massage: "cart is empty"})
     }
     console.log("====>", data);
-    res.status(200).json({ status: true, massage: data})
+    res.status(200).json({ status: true, data})
     
     }
     
 
 
 const postwishlist =async(req, res) => {
-
+//console.log("==========req.user==>",req.user)
     const { title, dis, price,img} = req.body
     if (!title && !dis && !price && !img ) {
         res.status(400).json({ message: "Please add all Filed" })
