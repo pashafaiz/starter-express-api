@@ -10,14 +10,15 @@ ConnectDB()
 
 app.use(express.urlencoded({ extended: false }));
 
-app.get("/faiz",(req,res)=>{
-    res.send("Helloo faizzz..............");
-})
+// app.get("/faiz",(req,res)=>{
+//     res.send("Helloo faizzz..............");
+// })
+app.use(cors())
 
  app.use('/api/addtocard', require('./router/AddRouter'));
  app.use('/api/address', require('./router/AddreshRouter'));
-// app.use('/api/wishlish',require('./routes/wishlistroutes'));
-//  app.use('/api/signup', require('./routes/sginuproutes'));
+app.use('/api/wishlish',require('./router/WishlistRouter'));
+ app.use('/api/signup', require('./router/SignupRouter'));
 
 
 app.listen(port, () => {
