@@ -1,8 +1,17 @@
-const express = require('express');
-const app = express();
+const express= require('express');
+const {Categories,Westerndresscollections } = require('../data')
 
-const { Categris } = require('./data')
+const router = express.Router();
 
-app.get('/',Categris);
+router.use(express.json())
 
-app.listen(5000)
+
+router.get('/',(req,res)=>{
+    res.json({status:true,data:Categories})
+})    
+router.get('/WDC',(req,res)=>{
+    res.json({status:true,data:Westerndresscollections})
+})    
+
+
+module.exports = router;
