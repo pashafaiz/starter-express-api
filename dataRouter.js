@@ -13,7 +13,7 @@ router.get('/WDC',(req,res)=>{
     res.json({status:true,data:Westerndresscollections})
 }) 
 router.get('/SSC',(req,res)=>{
-    res.json({status:true,data:Specialsareecollections})
+    res.json({status:true,Specialsareecollections})
 })
 
 
