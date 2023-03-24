@@ -14,7 +14,7 @@ app.use(express.urlencoded({ extended: false }));
 //     res.send("Helloo faizzz..............");
 // })
 app.use(cors())
-
+app.use('/api/allCategories',require('./dataRouter'))
  app.use('/api/addtocard', require('./router/AddRouter'));
  app.use('/api/address', require('./router/AddreshRouter'));
 app.use('/api/wishlish',require('./router/WishlistRouter'));
