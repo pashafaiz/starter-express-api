@@ -15,7 +15,7 @@ router.get('/WDC',(req,res)=>{
 router.get('/SSC',(req,res)=>{
     res.json({status:true,Specialsareecollections})
 })
-router.get('/   ',(req,res)=>{
+router.get('/DFU',(req,res)=>{
     res.json({status:true,Dressesforyou})
 })
 
