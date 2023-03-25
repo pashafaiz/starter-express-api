@@ -5598,17 +5598,279 @@ const Specialsareecollections = [
                 fabric:"Synthetic"
             }
         },
-
-
-
-        
+   
     ]
 
     }
 ]
 
+
+
+
+
+
+const Dressesforyou = [
+    {
+        title:"Dressesforyou",
+        Productlist:[
+        {
+            title:"Georgette Stitched Flared/A-line Gown  (Light Green)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/gown/0/n/z/na-m-full-sleeve-stitched-e6017-afsana-na-original-imagnqf5z5zmg7cf.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/gown/o/w/n/na-m-full-sleeve-stitched-e6017-afsana-na-original-imagnqf542ghm776.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/gown/w/n/o/na-m-full-sleeve-stitched-e6017-afsana-na-original-imagnqf5ntkzvd2z.jpeg?q=70"],
+            sellingPrice:"849",
+            disPrice:"3699",
+            disPrsent:"77%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMAMR22035A269",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Maslin silk"
+            }
+        },
+        {
+            title:"Printed Crepe Stitched Anarkali Gown  (Beige)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kzfvzww0/gown/l/z/g/16-s-short-sleeve-stitched-gown-badami-ne-style-60-original-imagbg8m9dpz4wtw.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kzfvzww0/gown/m/h/v/16-s-short-sleeve-stitched-gown-badami-ne-style-60-original-imagbg8metw45qjc.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kzfvzww0/gown/h/o/b/16-s-short-sleeve-stitched-gown-badami-ne-style-60-original-imagbg8mgvnwaqut.jpeg?q=70"],
+            sellingPrice:"278",
+            disPrice:"1599",
+            disPrsent:"82%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMVHN3001A214",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Heavy georgette"
+            }
+        },
+
+
+        {
+            title:"Printed Rayon Blend Stitched Anarkali Gown  (Maroon)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kpk3csw0/gown/7/8/r/15-xxl-3-4-sleeve-stitched-mroonhar-dup-baba-kurti-15-original-imag3rf5eyerhrxq.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kpk3csw0/gown/i/j/o/15-xxl-3-4-sleeve-stitched-mroonhar-dup-baba-kurti-15-original-imag3rf5zcfczc4z.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kpk3csw0/gown/h/x/j/15-xxl-3-4-sleeve-stitched-mroonhar-dup-baba-kurti-15-original-imag3rf5hzfyggu4.jpeg?q=70"],
+            sellingPrice:"426",
+            disPrice:"2999",
+            disPrsent:"85%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMPAL6008A213",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Soft tapeta silk"
+            }
+        },
+
+        {
+            title:"Self Design Georgette Stitched Anarkali Gown  (Green)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/gown/c/r/l/na-m-full-sleeve-stitched-e6014-afsana-na-original-imagnqeza3qkqhgj.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/gown/u/n/a/na-xl-full-sleeve-stitched-e6014-afsana-na-original-imagnqezgggqavqs.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/gown/p/j/1/na-xl-full-sleeve-stitched-e6014-afsana-na-original-imagnqezx6kqqarj.jpeg?q=70"],
+            sellingPrice:"1449",
+            disPrice:"5999",
+            disPrsent:"75%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMSDV418031A267",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Georgette"
+            }
+        },
+
+        {
+            title:"Georgette Stitched Flared/A-line Gown  (White, Black)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/dress/v/s/8/xl-mona-full-length-gown-handyhope-original-imagfqtgqcwatgnr.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/h/l/l/xl-mona-full-length-gown-handyhope-original-imagfqtgrr5z2aqk.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/n/z/m/xl-mona-full-length-gown-handyhope-original-imagfqtgqg9dymtm.jpeg?q=70"],
+            sellingPrice:"404",
+            disPrice:"1699",
+            disPrsent:"76%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMREHV727032A271",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Georgette"
+            }
+        },
+
+
+        {
+            title:"Embroidered Art Silk Semi Stitched Anarkali Gown  (Purple)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kmuxevk0/fabric/9/f/2/yes-semi-stitched-f1349-purple-fashion-basket-original-imagfzf29phgf7sv.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kmuxevk0/fabric/9/f/2/yes-semi-stitched-f1349-purple-fashion-basket-original-imagfzf29phgf7sv.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kmwcuq80/gown/u/n/k/na-free-full-sleeve-semi-stitched-yo-f1349-purple-yoyo-fashion-original-imagfp3pbahvepmk.jpeg?q=70"],
+            sellingPrice:"1209",
+            disPrice:"4999",
+            disPrsent:"75%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMSDV418030A266",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Georgette"
+            }
+        },
+
+        {
+            title:"Dyed Georgette Stitched Anarkali Gown  (Black)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/gown/i/a/q/na-xl-full-sleeve-stitched-re-40-raiyani-enterprise-na-original-imagc5mtp4acxzat.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/gown/9/d/n/na-xl-full-sleeve-stitched-re-40-raiyani-enterprise-na-original-imagc5mth6avczzz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/gown/y/t/y/na-xl-full-sleeve-stitched-re-40-raiyani-enterprise-na-original-imagc5mthhbvkngz.jpeg?q=70"],
+            sellingPrice:"390",
+            disPrice:"1599",
+            disPrsent:"75%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMPAL6007A212",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Soft tapeta silk"
+            }
+        },
+
+
+        {
+            title:"Printed Georgette Stitched Anarkali Gown  (Multicolor)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/gown/h/n/v/na-xl-half-sleeve-stitched-e6018-afsana-na-original-imagnqf62snhgcgy.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/gown/o/i/e/na-xl-half-sleeve-stitched-e6018-afsana-na-original-imagnqf66xupfyqb.jpeg?q=70"],
+            sellingPrice:"1299",
+            disPrice:"5999",
+            disPrsent:"78%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMELG213009A228",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Soft georgette"
+            }
+        },
+
+        {
+            title:"Georgette Stitched Flared/A-line Gown  (Beige)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/dress/w/o/c/xxl-mona-full-length-gown-handyhope-original-imagfqtgbm9u7zwm.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/n/4/z/xxl-mona-full-length-gown-handyhope-original-imagfqtgyjunx8bz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/1/e/f/xxl-mona-full-length-gown-handyhope-original-imagfqtgxck3vnzy.jpeg?q=70"],
+            sellingPrice:"404",
+            disPrice:"1699",
+            disPrsent:"76%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"HKVAMVHN3004A217",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Heavy georgette"
+            }
+        },
+
+        {
+            title:"Embroidered Net Semi Stitched Anarkali Gown  (Red)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-gown/h/o/4/free-half-sleeve-semi-stitched-ngb-01-life-sky-original-imag7vdaybd4qazn.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-gown/w/g/y/free-half-sleeve-semi-stitched-ngb-09-life-sky-original-imag7vday6ubquqz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-gown/v/n/i/free-half-sleeve-semi-stitched-ngb-01-life-sky-original-imag7vda55mgf7y7.jpeg?q=70"],
+            sellingPrice:"449",
+            disPrice:"3099",
+            disPrsent:"85%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMPAL6003A208",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Soft tapeta silk"
+            }
+        },
+
+
+        ]
+    
+    }
+
+    ]
+
+
+
+
+
+
+
+
 module.exports = {
     Categories, 
     Westerndresscollections,
-    Specialsareecollections
+    Specialsareecollections,
+    Dressesforyou
 }
