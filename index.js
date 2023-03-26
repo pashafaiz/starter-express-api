@@ -18,7 +18,7 @@ app.use('/api/allCategories',require('./dataRouter'))
  app.use('/api/addtocard', require('./router/AddRouter'));
  app.use('/api/address', require('./router/AddreshRouter'));
 app.use('/api/wishlish',require('./router/WishlistRouter'));
- app.use('/api/signup', require('./router/SignupRouter'));
+ app.use('/api/shopeen', require('./router/SignupRouter'));
 
 
 app.listen(port, () => {
