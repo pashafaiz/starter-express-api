@@ -5868,10 +5868,8 @@ const Swaiper = [
                 title:"casual-shirts",
                 Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/dRgLUKkHhAjFoMFMkHC9t-CASUAL.jpg",
                 Productlist:[
-                    {
-                        title:"Shirts ",
-                        Productlist:[
-                            { 
+                        
+            { 
                                 title:"CASUAL SHIRT YES BRAND HORIZONTAL LINE",
                                 Image:[ "https://rukminim1.flixcart.com/image/832/832/kc6jyq80/shirt/q/2/v/m-hm-shirt02-hanumntra-original-imaftd53zzeqchzy.jpeg?q=70",
                                       "https://rukminim1.flixcart.com/image/832/832/kc6jyq80/shirt/e/z/f/m-hm-shirt02-hanumntra-original-imaftd53bxwy8qqf.jpeg?q=70",
@@ -5893,9 +5891,9 @@ const Swaiper = [
                                     
                 
                                 }
-                            },
+            },
                 
-                            { 
+            { 
                                 title:"Men Slim Fit Solid Casual Shirt",
                                 Image:[ "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/shirt/u/a/t/l-frml-st2-vebnor-original-imag6apmphuh2ayu.jpeg?q=70",
                                       "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/shirt/c/c/h/l-frml-st2-vebnor-original-imag6apmjzyehu6p.jpeg?q=70",
@@ -5917,9 +5915,9 @@ const Swaiper = [
                                     
                 
                                 }
-                            },
+            },
     
-                            { 
+            { 
                                 title:"Men Slim Fit Checkered Spread Collar Casual Shirt",
                                 Image:[ "https://rukminim1.flixcart.com/image/832/832/kyag87k0/shirt/2/e/c/l-hlsh013040-highlander-original-imagajukzaxnfqqk.jpeg?q=70",
                                       "https://rukminim1.flixcart.com/image/832/832/kyag87k0/shirt/n/7/j/l-hlsh013040-highlander-original-imagajukcubp7ggq.jpeg?q=70",
@@ -5941,9 +5939,9 @@ const Swaiper = [
                                     
                 
                                 }
-                            },
+            },
                 
-                            { 
+            { 
                                 title:"Men Slim Fit Checkered Spread Collar Casual Shirt",
                                 Image:[ "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/t/k/f/l-check1195-tanip-original-image85ed7ezb29q.jpeg?q=70",
                                       "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/z/k/y/l-check1195-tanip-original-image85e5gbzbtwg.jpeg?q=70",
@@ -5965,9 +5963,9 @@ const Swaiper = [
                                     
                 
                                 }
-                            },
+            },
 
-                            { 
+            { 
                                 title:"https://rukminim1.flixcart.com/image/832/832/kqwobrk0/shirt/h/p/u/xxl-pink-sws4125-allan-peter-original-imag4tkbnaxgtq8z.jpeg?q=70",
                                 Image:[ "https://rukminim1.flixcart.com/image/832/832/kqwobrk0/shirt/h/p/u/xxl-pink-sws4125-allan-peter-original-imag4tkbnaxgtq8z.jpeg?q=70",
                                       "https://rukminim1.flixcart.com/image/832/832/kqwobrk0/shirt/y/p/i/xxl-pink-sws4125-allan-peter-original-imag4tkbdasb7u5v.jpeg?q=70",
@@ -5989,9 +5987,9 @@ const Swaiper = [
                                     
                 
                                 }
-                            },
+            },
                 
-                            { 
+            { 
                                 title:"Men Slim Fit Solid Casual Shirt",
                                 Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/p/j/8/40-rmsx12365-b5-raymond-original-imagnbzgksdhc7xp.jpeg?q=70",
                                       "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/9/d/r/40-rmsx12365-b5-raymond-original-imagnbzgrtpctwup.jpeg?q=70",
@@ -6013,16 +6011,14 @@ const Swaiper = [
                                     
                 
                                 }
-                            },
-                        ]
+            },
+                        
                 
                         
-            },
+            
         ],
     },
     {
-
-
         title:"Shirts",
         Image:"http://cdn.shopify.com/s/files/1/2546/6304/collections/lifestyle-block-2_58b4f367-1217-4eaa-bdd4-eb4a9e8f9986.jpg?v=1675091017",
         Productlist:[
@@ -6145,9 +6141,13 @@ const Swaiper = [
 
                 }
             },
+            
 
         ]
     },
+
+
+
     {
         title:"Jeans",
         Image:"https://cdn.anscommerce.com/catalog/brandstore/kkcl/539-2023_02_23-killer_web_banners_03.jpg",
@@ -6176,7 +6176,6 @@ const Swaiper = [
                 }
             },
         
-        
             { 
                 title:"Men Slim Mid Rise Blue Jeans",
                 Image:[ "https://rukminim1.flixcart.com/image/832/832/l5bd5zk0/jean/g/j/b/32-wmjn004806-wrangler-original-imaggyry9nrug5tr.jpeg?q=70",
@@ -6200,6 +6199,79 @@ const Swaiper = [
         
                 }
             },
+
+            { 
+                      title:"Men Regular Fit Trousers",
+                      Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/w/o/a/34-22a4ctwb1019i901-united-colors-of-benetton-original-imagjs7hqygaqsze.jpeg?q=70",
+                              "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/w/o/x/34-22a4ctwb1019i901-united-colors-of-benetton-original-imagjs7hz4gg2q9j.jpeg?q=70",
+                              "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/e/h/m/34-22a4ctwb1019i901-united-colors-of-benetton-original-imagjs7hcdtfyneg.jpeg?q=70"],
+                      sellingPrice:"999",
+                      disPrice:"510",
+                      disPrsent:"48%",
+                      soldBy:"SHOPPEEN",
+                      COD:"Available",
+                      Status:"In-stock",
+                      quantity:" + 1 -",
+                      Size:["S","M","L","XL","XXL"],
+                      ProductDetails:{
+                          productCode:"SHSTYBPPCS452",
+                          idealFor:"men",
+                          packOf:"1",
+                          occasion:"Daily Wear,casual wear",
+                          fabric:"Cotton",
+                          
+                      }
+            },
+                      
+            { 
+                      title:"Men Slim Fit Black Viscose Rayon Trousers",
+                      Image:[ "https://rukminim1.flixcart.com/image/832/832/kkprmvk0/trouser/i/z/s/32-pmtx06279-b9-park-avenue-original-imagyyfpupwjay7z.jpeg?q=70",
+                               "https://rukminim1.flixcart.com/image/832/832/kkprmvk0/trouser/j/s/x/32-pmtx06279-b9-park-avenue-original-imagyyfptzfynfhr.jpeg?q=70",
+                               "https://rukminim1.flixcart.com/image/832/832/kkprmvk0/trouser/v/v/t/32-pmtx06279-b9-park-avenue-original-imagyyfpm5tjzeyk.jpeg?q=70"],
+                      sellingPrice:"1299",
+                      disPrice:"450",
+                      disPrsent:"65%",
+                      soldBy:"SHOPPEEN",
+                      COD:"Available",
+                      Status:"In-stock",
+                      quantity:" + 1 -",
+                      Size:["S","M","L","XL","XXL"],
+                      ProductDetails:{
+                          productCode:"SHSTYBMP1A445",
+                          idealFor:"men",
+                          packOf:"1",
+                          occasion:"Daily Wear,casual wear",
+                          fabric:"Royon",
+                          
+                  
+                      }
+            },
+            
+            { 
+                title:"Men Slim Fit Gold Lycra Blend Trousers",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/m/k/l/32-4way-20-grandstitch-original-imaggqhxhu8tk2dy.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/e/3/z/32-4way-20-grandstitch-original-imaggqhxpqr3yvfp.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/8/p/k/32-4way-20-grandstitch-original-imaggqhxk5wgmf6y.jpeg?q=70"],
+                sellingPrice:"999",
+                disPrice:"510",
+                disPrsent:"48%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBPPCS452",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    fabric:"Cotton",
+                    
+            
+                }
+            },
+
+            
         ]
     }
 ]
