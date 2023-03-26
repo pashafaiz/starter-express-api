@@ -1,5 +1,5 @@
 const express= require('express');
-const {Categories,Westerndresscollections,Specialsareecollections,Dressesforyou } = require('./data')
+const {Categories,Westerndresscollections,Specialsareecollections,Dressesforyou ,Swaiper} = require('./data')
 
 const router = express.Router();
 
@@ -17,6 +17,9 @@ router.get('/SSC',(req,res)=>{
 })
 router.get('/DFU',(req,res)=>{
     res.json({status:true,Dressesforyou})
+})
+router.get('swaiper',(req,res)=>{
+    res.json({status:true,Swaiper})
 })
 
 

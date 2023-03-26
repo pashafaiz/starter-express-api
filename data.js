@@ -2421,7 +2421,9 @@ Trousers={
                     }
                 },
     
-    
+
+
+
                 { 
                     title:"Men Regular Fit Solid Spread Collar Formal Shirt",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/shirt/u/a/t/l-frml-st2-vebnor-original-imag6apmphuh2ayu.jpeg?q=70",
@@ -5861,6 +5863,346 @@ const Specialsareecollections = [
 
 
 
+const Swaiper = [
+            {
+                title:"casual-shirts",
+                Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/dRgLUKkHhAjFoMFMkHC9t-CASUAL.jpg",
+                Productlist:[
+                    {
+                        title:"Shirts ",
+                        Productlist:[
+                            { 
+                                title:"CASUAL SHIRT YES BRAND HORIZONTAL LINE",
+                                Image:[ "https://rukminim1.flixcart.com/image/832/832/kc6jyq80/shirt/q/2/v/m-hm-shirt02-hanumntra-original-imaftd53zzeqchzy.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/kc6jyq80/shirt/e/z/f/m-hm-shirt02-hanumntra-original-imaftd53bxwy8qqf.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/kc6jyq80/shirt/y/i/v/m-hm-shirt02-hanumntra-original-imaftd53fdzp64mt.jpeg?q=70"],
+                                sellingPrice:"999",
+                                disPrice:"510",
+                                disPrsent:"48%",
+                                soldBy:"SHOPPEEN",
+                                COD:"Available",
+                                Status:"In-stock",
+                                quantity:" + 1 -",
+                                Size:["S","M","L","XL","XXL"],
+                                ProductDetails:{
+                                    productCode:"SHSTYBPPCS452",
+                                    idealFor:"men",
+                                    packOf:"1",
+                                    occasion:"Daily Wear,casual wear",
+                                    ShirtsFabric:"Cotton",
+                                    
+                
+                                }
+                            },
+                
+                            { 
+                                title:"Men Slim Fit Solid Casual Shirt",
+                                Image:[ "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/shirt/u/a/t/l-frml-st2-vebnor-original-imag6apmphuh2ayu.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/shirt/c/c/h/l-frml-st2-vebnor-original-imag6apmjzyehu6p.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/shirt/f/7/v/l-frml-st2-vebnor-original-imag6apmq69vfxqz.jpeg?q=70"],
+                                sellingPrice:"1299",
+                                disPrice:"450",
+                                disPrsent:"65%",
+                                soldBy:"SHOPPEEN",
+                                COD:"Available",
+                                Status:"In-stock",
+                                quantity:" + 1 -",
+                                Size:["S","M","L","XL","XXL"],
+                                ProductDetails:{
+                                    productCode:"SHSTYBMP1A445",
+                                    idealFor:"men",
+                                    packOf:"1",
+                                    occasion:"Daily Wear,casual wear",
+                                    ShirtsFabric:"Royon",
+                                    
+                
+                                }
+                            },
+    
+                            { 
+                                title:"Men Slim Fit Checkered Spread Collar Casual Shirt",
+                                Image:[ "https://rukminim1.flixcart.com/image/832/832/kyag87k0/shirt/2/e/c/l-hlsh013040-highlander-original-imagajukzaxnfqqk.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/kyag87k0/shirt/n/7/j/l-hlsh013040-highlander-original-imagajukcubp7ggq.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/kyag87k0/shirt/f/6/b/l-hlsh013040-highlander-original-imagajukjsgtdqwe.jpeg?q=70"],
+                                sellingPrice:"1893",
+                                disPrice:"1445",
+                                disPrsent:"21%",
+                                soldBy:"SHOPPEEN",
+                                COD:"Available",
+                                Status:"In-stock",
+                                quantity:" + 1 -",
+                                Size:["S","M","L","XL","XXL"],
+                                ProductDetails:{
+                                    productCode:"SHSTYBSC4A448",
+                                    idealFor:"men",
+                                    packOf:"1",
+                                    occasion:"Daily Wear,casual wear",
+                                    ShirtsFabric:"Cotton",
+                                    
+                
+                                }
+                            },
+                
+                            { 
+                                title:"Men Slim Fit Checkered Spread Collar Casual Shirt",
+                                Image:[ "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/t/k/f/l-check1195-tanip-original-image85ed7ezb29q.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/z/k/y/l-check1195-tanip-original-image85e5gbzbtwg.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/1/m/x/l-check1195-tanip-original-image85eukssmgkg.jpeg?q=70"],
+                                sellingPrice:"1349",
+                                disPrice:"455",
+                                disPrsent:"66%",
+                                soldBy:"SHOPPEEN",
+                                COD:"Available",
+                                Status:"In-stock",
+                                quantity:" + 1 -",
+                                Size:["S","M","L","XL","XXL"],
+                                ProductDetails:{
+                                    productCode:"SHSTYBCLRSTP9A453",
+                                    idealFor:"men",
+                                    packOf:"1",
+                                    occasion:"Daily Wear,casual wear",
+                                    ShirtsFabric:"Cotton",
+                                    
+                
+                                }
+                            },
+
+                            { 
+                                title:"https://rukminim1.flixcart.com/image/832/832/kqwobrk0/shirt/h/p/u/xxl-pink-sws4125-allan-peter-original-imag4tkbnaxgtq8z.jpeg?q=70",
+                                Image:[ "https://rukminim1.flixcart.com/image/832/832/kqwobrk0/shirt/h/p/u/xxl-pink-sws4125-allan-peter-original-imag4tkbnaxgtq8z.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/kqwobrk0/shirt/y/p/i/xxl-pink-sws4125-allan-peter-original-imag4tkbdasb7u5v.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/kqwobrk0/shirt/j/f/e/xxl-pink-sws4125-allan-peter-original-imag4tkbzetqdhqv.jpeg?q=70"],
+                                sellingPrice:"999",
+                                disPrice:"245",
+                                disPrsent:"75%",
+                                soldBy:"SHOPPEEN",
+                                COD:"Available",
+                                Status:"In-stock",
+                                quantity:" + 1 -",
+                                Size:["S","M","L","XL","XXL"],
+                                ProductDetails:{
+                                    productCode:"SHSTYBSSLASHBOXA465",
+                                    idealFor:"men",
+                                    packOf:"1",
+                                    occasion:"Daily Wear,casual wear",
+                                    ShirtsFabric:"Cotton",
+                                    
+                
+                                }
+                            },
+                
+                            { 
+                                title:"Men Slim Fit Solid Casual Shirt",
+                                Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/p/j/8/40-rmsx12365-b5-raymond-original-imagnbzgksdhc7xp.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/9/d/r/40-rmsx12365-b5-raymond-original-imagnbzgrtpctwup.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/o/e/p/40-rmsx12365-b5-raymond-original-imagnbzgfvghbzug.jpeg?q=70"],
+                                sellingPrice:"999",
+                                disPrice:"529",
+                                disPrsent:"48%",
+                                soldBy:"SHOPPEEN",
+                                COD:"Available",
+                                Status:"In-stock",
+                                quantity:" + 1 -",
+                                Size:["S","M","L","XL","XXL"],
+                                ProductDetails:{
+                                    productCode:"SHSTYBSLABLBOXCHDA466",
+                                    idealFor:"men",
+                                    packOf:"1",
+                                    occasion:"Daily Wear,casual wear",
+                                    ShirtsFabric:"Cotton",
+                                    
+                
+                                }
+                            },
+                        ]
+                
+                        
+            },
+        ],
+    },
+    {
+
+
+        title:"Shirts",
+        Image:"http://cdn.shopify.com/s/files/1/2546/6304/collections/lifestyle-block-2_58b4f367-1217-4eaa-bdd4-eb4a9e8f9986.jpg?v=1675091017",
+        Productlist:[
+            { 
+                title:"Men Regular Fit Solid Spread Collar Formal Shirt",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/shirt/u/a/t/l-frml-st2-vebnor-original-imag6apmphuh2ayu.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/shirt/c/c/h/l-frml-st2-vebnor-original-imag6apmjzyehu6p.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/shirt/f/7/v/l-frml-st2-vebnor-original-imag6apmq69vfxqz.jpeg?q=70"],
+                sellingPrice:"1299",
+                disPrice:"450",
+                disPrsent:"65%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBMP1A445",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Royon",
+                    
+
+                }
+            },
+            
+            { 
+                title:"Men Regular Fit Solid Button Down Collar Formal Shirt",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/kyag87k0/shirt/2/e/c/l-hlsh013040-highlander-original-imagajukzaxnfqqk.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/kyag87k0/shirt/n/7/j/l-hlsh013040-highlander-original-imagajukcubp7ggq.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/kyag87k0/shirt/f/6/b/l-hlsh013040-highlander-original-imagajukjsgtdqwe.jpeg?q=70"],
+                sellingPrice:"1893",
+                disPrice:"1445",
+                disPrsent:"21%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBSC4A448",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                    
+
+                }
+            },
+
+            { 
+                title:"Men Slim Fit Checkered Spread Collar Casual Shirt",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/t/k/f/l-check1195-tanip-original-image85ed7ezb29q.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/z/k/y/l-check1195-tanip-original-image85e5gbzbtwg.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/1/m/x/l-check1195-tanip-original-image85eukssmgkg.jpeg?q=70"],
+                sellingPrice:"1349",
+                disPrice:"455",
+                disPrsent:"66%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBCLRSTP9A453",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                    
+
+                }
+            },
+
+            { 
+                title:"Men Regular Fit Checkered Mandarin Collar Casual Shirt",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/kqwobrk0/shirt/h/p/u/xxl-pink-sws4125-allan-peter-original-imag4tkbnaxgtq8z.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/kqwobrk0/shirt/y/p/i/xxl-pink-sws4125-allan-peter-original-imag4tkbdasb7u5v.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/kqwobrk0/shirt/j/f/e/xxl-pink-sws4125-allan-peter-original-imag4tkbzetqdhqv.jpeg?q=70"],
+                sellingPrice:"999",
+                disPrice:"245",
+                disPrsent:"75%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBSSLASHBOXA465",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                    
+
+                }
+            },
+
+            { 
+                title:"Men Slim Fit Printed Spread Collar Formal Shirt",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/p/j/8/40-rmsx12365-b5-raymond-original-imagnbzgksdhc7xp.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/9/d/r/40-rmsx12365-b5-raymond-original-imagnbzgrtpctwup.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/o/e/p/40-rmsx12365-b5-raymond-original-imagnbzgfvghbzug.jpeg?q=70"],
+                sellingPrice:"999",
+                disPrice:"529",
+                disPrsent:"48%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBSLABLBOXCHDA466",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                    
+
+                }
+            },
+
+        ]
+    },
+    {
+        title:"Jeans",
+        Image:"https://cdn.anscommerce.com/catalog/brandstore/kkcl/539-2023_02_23-killer_web_banners_03.jpg",
+        Productlist:[
+            { 
+                title:"Boys Slim Mid Rise Grey Jeans",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/jean/2/x/b/13-14-years-junhpsjoggerboy-lgrey-urbano-juniors-original-imafpm83zszw3dfn-bb.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/k7dnonk0/jean/2/x/b/11-12-years-junhpsjoggerboy-lgrey-urbano-juniors-original-imafpm83dvrbrrby.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/k7dnonk0/jean/2/x/b/13-14-years-junhpsjoggerboy-lgrey-urbano-juniors-original-imafpm83qjymaywf.jpeg?q=70"],
+                sellingPrice:"999",
+                disPrice:"510",
+                disPrsent:"48%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBPPCS452",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    fabric:"Cotton",
+                    
+        
+                }
+            },
+        
+        
+            { 
+                title:"Men Slim Mid Rise Blue Jeans",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/l5bd5zk0/jean/g/j/b/32-wmjn004806-wrangler-original-imaggyry9nrug5tr.jpeg?q=70",
+                         "https://rukminim1.flixcart.com/image/832/832/l5bd5zk0/jean/j/c/n/32-wmjn004806-wrangler-original-imaggyrymkvjg3vs.jpeg?q=70",
+                         "https://rukminim1.flixcart.com/image/832/832/l5bd5zk0/jean/i/h/h/32-wmjn004806-wrangler-original-imaggyrygecmjmhf.jpeg?q=70"],
+                sellingPrice:"1299",
+                disPrice:"450",
+                disPrsent:"65%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBMP1A445",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    fabric:"Royon",
+                    
+        
+                }
+            },
+        ]
+    }
+]
 
 
 
@@ -5870,5 +6212,6 @@ module.exports = {
     Categories, 
     Westerndresscollections,
     Specialsareecollections,
-    Dressesforyou
+    Dressesforyou,
+    Swaiper
 }
