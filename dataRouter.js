@@ -18,7 +18,7 @@ router.get('/SSC',(req,res)=>{
 router.get('/DFU',(req,res)=>{
     res.json({status:true,Dressesforyou})
 })
-router.get('swaiper',(req,res)=>{
+router.get('swiper',(req,res)=>{
     res.json({status:true,Swaiper})
 })
 
