@@ -9,7 +9,8 @@ const addtocards = new mongoose.Schema({
     COD: { type: String },
     status: { type: String },
     size: { type: String },
-    quentity: { type: String }
+    quentity: { type: String },
+    user_id:{type: String}
 }, 
 {
     timestamps: true 
