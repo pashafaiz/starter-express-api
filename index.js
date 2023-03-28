@@ -2,23 +2,23 @@ const express = require('express');
 const app = express();
 const { route } = require('./router/WishlistRouter');
 const dotenv = require('dotenv').config();
-const path=require('path')
-const multer =require('multer')
+const path=require('path');
+const multer =require('multer');
 const port = process.env.PORT || 5000;
 app.use("/uploads/images", express.static(path.join("uploads", "images")));
 const cors = require('cors');
 
 const ConnectDB = require('./config/db');
 const fileUpload = require('./utils/fileUpload');
-ConnectDB()
+ConnectDB();
 
 app.use(express.urlencoded({ extended: false }));
 
 // app.get("/faiz",(req,res)=>{
 //     res.send("Helloo faizzz..............");
 // })
-app.use(cors())
-app.use('/api/allCategories',require('./dataRouter'))
+app.use(cors());
+app.use('/api/allCategories',require('./dataRouter'));
  app.use('/api/addtocard', require('./router/AddRouter'));
  app.use('/api/address', require('./router/AddreshRouter'));
 app.use('/api/wishlish',require('./router/WishlistRouter'));
