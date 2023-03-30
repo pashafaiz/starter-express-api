@@ -28,12 +28,7 @@ const postintiale = async(req, res) => {
         user_id:req.user,
         
     });
-    // res.status(201).json({
-    //     title:data.title,
-    //     dis:data.dis,
-    //     // token:generateToken(data._id)
-
-    // })
+  
     console.log("====>", data);
     res.status(200).json(data)
 
@@ -58,11 +53,6 @@ const deleteintiale =async(req,res)=>{
 }
 
 
-// const generateToken = (id) => {
-//     return jwt.sign({ id }, process.env.JWT_SECRET, {
-//         expiresIn: '30d',
-//     })
-// }
 
 
 
