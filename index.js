@@ -23,7 +23,7 @@ app.use('/api/allCategories',require('./dataRouter'));
  app.use('/api/address', require('./router/AddreshRouter'));
 app.use('/api/wishlish',require('./router/WishlistRouter'));
  app.use('/api/shopeen', require('./router/SignupRouter'));
- app.use('/api/intiles',require('./router/IntilestageRouter'))
+ app.use('/api/intiles',require('./router/intialeRouter/IntilestageRouter'))
  
 
 

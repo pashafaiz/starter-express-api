@@ -1,6 +1,7 @@
 const jwt = require("jsonwebtoken")
+const bcrypt = require('bcryptjs');
 const mongodb = require('mongodb');
-const inti = require('../model/IntilestageModel');
+const inti = require('../../model/intialeModel/IntilestageModel');
 const asyncHandler = require('express-async-handler');
 
 
@@ -17,18 +18,27 @@ res.status(200).json({ status:true, data})
 
 
 const postintiale = async(req, res) => {
-
-    const {Write , Remove, } = req.body
-    if (!Write && !Remove) {
+    const {title , dis,} = req.body
+    if (!title && !dis) {
         res.status(400).json({ message: "Please add all Filed" })
     }
     let data = await inti.create({ 
-        Write,
-        Remove,
-
+        title,
+        dis,
+        user_id:req.user,
+        
     });
+    // res.status(201).json({
+    //     title:data.title,
+    //     dis:data.dis,
+    //     // token:generateToken(data._id)
+
+    // })
     console.log("====>", data);
     res.status(200).json(data)
+
+
+    
 }
 
 
@@ -46,6 +56,13 @@ const deleteintiale =async(req,res)=>{
     console.log("=====delete data=====>",deleteResult)
     res.status(200).json({massage:`delete data ${req.params._id}`}) 
 }
+
+
+// const generateToken = (id) => {
+//     return jwt.sign({ id }, process.env.JWT_SECRET, {
+//         expiresIn: '30d',
+//     })
+// }
 
 
 
