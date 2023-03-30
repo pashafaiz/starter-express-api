@@ -15,7 +15,7 @@ ConnectDB();
 app.use(express.urlencoded({ extended: false }));
 
 app.get("/faiz",(req,res)=>{
-    res.send("Helloo faizzz..............");
+    res.send("Helloo faizzzzz..............");
 })
 app.use(cors());
 app.use('/api/allCategories',require('./dataRouter'));
@@ -23,6 +23,7 @@ app.use('/api/allCategories',require('./dataRouter'));
  app.use('/api/address', require('./router/AddreshRouter'));
 app.use('/api/wishlish',require('./router/WishlistRouter'));
  app.use('/api/shopeen', require('./router/SignupRouter'));
+ app.use('/api/intiles',require('./router/IntilestageRouter'))
  
 
 
