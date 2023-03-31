@@ -12,7 +12,7 @@ const getwishlist = async(req, res) => {
         res.status(200).json({ status: false, massage: "cart is empty"})
     }
     console.log("====>", data);
-    res.status(200).json({ status: true, data})
+    res.status(200).json({ status: true, data}) 
     
     }
     

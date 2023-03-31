@@ -23,9 +23,11 @@ app.use('/api/allCategories',require('./dataRouter'));
  app.use('/api/address', require('./router/AddreshRouter'));
 app.use('/api/wishlish',require('./router/WishlistRouter'));
  app.use('/api/shopeen', require('./router/SignupRouter'));
- app.use('/api/intiles',require('./router/intialeRouter/IntilestageRouter'))
+ app.use('/api/intiles',require('./router/intialeRouter/IntilestageRouter'));
+ app.use('/api/todo',require('./router/intialeRouter/TodoRouter'))
+ app.use('/api/doing',require('./router/intialeRouter/DoingRouter'));
+ app.use('/api/complete',require('./router/intialeRouter/CompleteRouter'))
  
-
 
 app.listen(port, () => {
     console.log(`port is colled ${port}`)

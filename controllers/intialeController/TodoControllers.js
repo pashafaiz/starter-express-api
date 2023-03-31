@@ -1,28 +1,28 @@
 const jwt = require("jsonwebtoken")
 const bcrypt = require('bcryptjs');
 const mongodb = require('mongodb');
-const inti = require('../../model/intialeModel/IntilestageModel');
+const todo = require('../../model/intialeModel/TodoModel');
 const asyncHandler = require('express-async-handler');
 
 
-const getintiale = async(req,res)=>{
-let data = await inti.find({ user_id: req.user}) 
+const gettodo = asyncHandler(async(req,res)=>{
+let data = await todo.find({ user_id: req.user}) 
 
 if(!data.length){
-    res.status(200).json({ status:false, massage: "intiale stage is empty"})
+    res.status(200).json({ status:false, massage: "todo is empty"})
 }
 console.log("====>", data);
 res.status(200).json({ status:true, data})
-}
+})
 
 
 
-const postintiale = async(req, res) => {
+const posttodo = asyncHandler(async(req, res) => {
     const {title , dis,} = req.body
     if (!title || !dis) {
-        res.status(400).json({ message: "Please add all Filed" })
+        res.status(400).json({ message: "Something is messing" })
     }
-    let data = await inti.create({ 
+    let data = await todo.create({ 
         title,
         dis,
         user_id:req.user,
@@ -31,31 +31,31 @@ const postintiale = async(req, res) => {
   
     console.log("====>", data); 
     res.status(200).json(data)
-}
+})
 
 
 
-const deleteintiale =async(req,res)=>{
-    const data = await inti.findById(req.params._id);
+const deletetodo = asyncHandler(async(req,res)=>{
+    const data = await todo.findById(req.params._id);
     console.log("find id ===>",data);
 
     console.log("=======>",req.params._id);
    if(!data){
    res.ststus(400);
-   res.json("user not found ")
+   res.json(" Nothing available ")
    }
-    const deleteResult = await inti.deleteMany({_id: data._id});
-    console.log("=====delete data=====>",deleteResult)
+    const deletedata = await todo.deleteMany({_id: data._id});
+    console.log("=====delete data=====>",deletedata)
     res.status(200).json({massage:`delete data ${req.params._id}`}) 
-}
+})
 
 
 
 
 
 module.exports = {
-    getintiale,
-    deleteintiale,
-    postintiale
+    gettodo,
+    deletetodo,
+    posttodo
     
 }
