@@ -12,15 +12,15 @@ if(!data.length){
     res.status(200).json({ status:false, massage: "data is empty"})
 }
 console.log("====>", data);
-res.status(200).json({ status:true, data})
-})
+res.status(200).json({ status:true, data});
+});
 
 
 
 const postComplete = asyncHandler(async(req, res) => {
     const {title , dis,} = req.body
     if (!title || !dis) {
-        res.status(400).json({ message: "Add all filds" })
+        res.status(400).json({ message: "Add all filds" });
     }
     let data = await com.create({ 
         title,
@@ -50,8 +50,7 @@ const deleteComplete = asyncHandler(async(req,res)=>{
 })
 
 
- 
- 
+
 module.exports = {
     getComplete,
     deleteComplete,

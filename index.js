@@ -14,9 +14,9 @@ ConnectDB();
 
 app.use(express.urlencoded({ extended: false }));
 
-app.get("/faiz",(req,res)=>{
-    res.send("Helloo faizzzzz..............");
-})
+// app.get("/faiz",(req,res)=>{
+//     res.send("Helloo faizzzzz..............");
+// })
 app.use(cors());
 app.use('/api/allCategories',require('./dataRouter'));
  app.use('/api/addtocard', require('./router/AddRouter'));
